@@ -1,0 +1,6 @@
+{
+  "name": "TerraPulse",
+  "description": "Environmental intelligence and geospatial monitoring platform for Puttur, Andhra Pradesh and expandable global regions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
